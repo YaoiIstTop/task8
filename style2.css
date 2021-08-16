@@ -1,0 +1,28 @@
+img{
+  border-radius: 10px;
+   border-bottom: 5px solid #cfa5cf;
+}
+
+.left{
+ padding: 30px;
+}
+
+.specialy{
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+
+header{
+  background-color: #FFE4E1;
+border-radius: 10px;
+  min-height: 100px;
+  padding: none;
+  text-align: center;
+}
+
+h1{
+
+}
